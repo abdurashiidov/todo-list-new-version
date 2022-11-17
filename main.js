@@ -20,10 +20,7 @@ btn.addEventListener("click", ()=>{
 
     newArr.push(input.value)
 
-    // console.log(li.length);
 
-
-    // }
 
     input.value = ""
 })
