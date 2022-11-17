@@ -43,4 +43,5 @@ body{
 .lii{
     font-size: 25px;
     font-family: "Arial", sans-serif;
+    display: flex;
 }
