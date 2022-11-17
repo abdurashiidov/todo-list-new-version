@@ -22,15 +22,3 @@ btn.addEventListener("click", ()=>{
 
     input.value = ""
 })
-
-
-// input2.addEventListener("change", (e)=>{
-//     console.log("ok");
-    
-
-//     if (input2.value.length == 0) {
-//         btn.disabled = true;
-//     } else {
-//         console.log("ok");
-//     }
-// })
