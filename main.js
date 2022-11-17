@@ -20,8 +20,6 @@ btn.addEventListener("click", ()=>{
 
     newArr.push(input.value)
 
-
-
     input.value = ""
 })
 
