@@ -22,10 +22,7 @@ btn.addEventListener("click", ()=>{
 
     // console.log(li.length);
 
-    // for (let i = 0; i < li.length; i++) {
-    //     const element = array[i];
-    //     console.log(element.length);
-        
+
     // }
 
     input.value = ""
