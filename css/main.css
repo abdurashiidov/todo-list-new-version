@@ -1,0 +1,46 @@
+body{
+    background-color: aquamarine;
+}
+.title{
+    font-size: 50px;
+    font-family: "Arial", sans-serif;
+    /* align-items: center; */
+    text-align: center;
+}
+.input{
+    font-size: 20px;
+    border-radius: 10px;
+    width: 800px;
+    background-color: bisque;
+    padding: 10px;
+}
+.input:hover{
+    border: 1px solid red;
+}
+.btn{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: bisque;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+    transition: 0.5s all;
+}
+.btn:active{
+    transform: scale(0.9);
+}
+.wrap{
+    text-align: center;
+}
+.list{
+    text-align: center;
+    list-style-type: none;
+    width: 800px;
+    
+}
+.lii{
+    font-size: 25px;
+    font-family: "Arial", sans-serif;
+}
